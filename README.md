@@ -5,7 +5,8 @@ You can either use PowerPoint or LaTeX to create your slides.
 
 ## PowerPoint
 
-There is a modern 16:9 PowerPoint template available: [es_template_modern.pptx](es_template_modern.pptx)
+There is a 16:9 PowerPoint template available: [es_template.pptx](es_template.pptx)
+This template is based on the [corporate design](https://www.intern.tu-darmstadt.de/arbeitsmittel/corporate_design_vorlagen/index.de.jsp) (2016) of the TU Darmstadt.
 
 Make sure to use a recent version of PowerPoint.
 
