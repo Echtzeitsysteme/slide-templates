@@ -14,7 +14,8 @@ Make sure to use a recent version of PowerPoint.
 ## LaTeX
 
 There is a TeX file available to create slides (e.g., for your final thesis presentation):
-[slides.tex](./slides.tex)
+- [slides_en.tex](./slides_en.tex) for English slides
+- [slides_de.tex](./slides_de.tex) for German slides
 
 **Before you use this template, please make sure that all packages of your TeX installation are up to date.** Most distributions include GUI tools to do this (e.g., TeX Live Utility for TeX Live and MacTeX). Among others, updating all packages avoids using outdated version of the TUDa package.
 
