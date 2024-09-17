@@ -27,7 +27,9 @@ Thus, the file *tuda_logo.pdf* only acts as a placeholder and has to be replaced
 
 You can also include notes that will be rendered in another frame besides the actual slides.
 For your presentation, there is the possibility to use a PDF presenter that is able to create a split screen (like PowerPoint would do).
-A lightweight tool for this purpose is [pdfpc](https://pdfpc.github.io/).
+Possible tools for this purpose are:
+- [pdfpc](https://pdfpc.github.io/) (CLI)
+- [lecturePresenter](https://www.lecturestudio.org) (graphical application with pdfpc key bindings)
 
 This template is a slightly adapted version of the template available at [GitHub](https://github.com/tudace/tuda_latex_templates), [CTAN](https://www.ctan.org/pkg/tuda-ci), and [TU Darmstadt](https://www.ce.tu-darmstadt.de/ce/latex_tuda/index.de.jsp).
 
